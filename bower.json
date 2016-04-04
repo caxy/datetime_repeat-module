@@ -1,0 +1,24 @@
+{
+  "name": "datetime_repeat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Benjamin Doherty <bjd@bangpound.org>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-tmpl": "https://github.com/BorisMoore/jquery-tmpl.git",
+    "jquery.recurrenceinput.js": "^1.5.2",
+    "jquerytools": "https://github.com/jquerytools/jquerytools.git#^1.2.7"
+  }
+}

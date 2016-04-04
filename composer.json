@@ -1,0 +1,16 @@
+{
+  "name": "drupal/datetime_repeat",
+  "type": "drupal-module",
+  "description": "My Awesome Module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/datetime_repeat",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/datetime_repeat",
+    "source": "http://cgit.drupalcode.org/datetime_repeat"
+  },
+  "require": {
+    "simshaun/recurr": "^0.6.1"
+  }
+}

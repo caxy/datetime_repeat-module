@@ -1,0 +1,61 @@
+jquery-recurrenceinput:
+  css:
+    theme:
+      bower_components/jquery.recurrenceinput.js/src/jquery.recurrenceinput.css: {}
+  js:
+    bower_components/jquery.recurrenceinput.js/src/jquery.recurrenceinput.js: {}
+  dependencies:
+    - datetime_repeat/jquery-tmpl
+
+jquery-tmpl:
+  js:
+    bower_components/jquery-tmpl/jquery.tmpl.js: {}
+
+recurrenceinput:
+  js:
+    js/recurrenceinput.js: {}
+  dependencies:
+    - datetime_repeat/jquery-recurrenceinput
+    - datetime_repeat/jquerytools.overlay
+    - core/jquery.ui.dialog
+    - datetime_repeat/jquerytools.datetime
+
+jquerytools.overlay:
+  js:
+    bower_components/jquerytools/src/overlay/overlay.js: {}
+  dependencies:
+    - datetime_repeat/jquery-migrate
+
+jquery-migrate:
+  js:
+    node_modules/jquery-migrate/dist/jquery-migrate.js: {}
+
+jquerytools.datetime:
+  js:
+    bower_components/jquerytools/src/dateinput/dateinput.js: {}
+
+fuelux:
+  js:
+    js/fuelux.js: {}
+  dependencies:
+    - datetime_repeat/fuelux.vendor
+
+fuelux.vendor:
+  css:
+    theme:
+      node_modules/fuelux/dist/css/fuelux.css: {}
+  js:
+    node_modules/fuelux/dist/js/fuelux.js: {}
+  dependencies:
+    - datetime_repeat/bootstrap
+
+bootstrap:
+  css:
+    theme:
+#      node_modules/bootstrap/dist/css/bootstrap.css: {}
+  js:
+    node_modules/bootstrap/dist/js/bootstrap.js: {}
+
+rrule:
+  js:
+    node_modules/rrule/lib/rrule.js: {}
