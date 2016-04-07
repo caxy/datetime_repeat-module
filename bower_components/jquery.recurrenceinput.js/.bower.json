@@ -1,0 +1,20 @@
+{
+  "name": "jquery.recurrenceinput.js",
+  "main": [
+    "./src/jquery.recurrenceinput.js",
+    "./src/jquery.recurrenceinput.css"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
+  "homepage": "https://github.com/caxy/jquery.recurrenceinput.js",
+  "_release": "3f37abace3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "develop",
+    "commit": "3f37abace351f09e616a4088ad3b6fe09336dbcf"
+  },
+  "_source": "https://github.com/caxy/jquery.recurrenceinput.js.git",
+  "_target": "develop",
+  "_originalSource": "https://github.com/caxy/jquery.recurrenceinput.js.git"
+}
