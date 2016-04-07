@@ -8,11 +8,11 @@
     "jquery": ">=1.7.0"
   },
   "homepage": "https://github.com/caxy/jquery.recurrenceinput.js",
-  "_release": "3f37abace3",
+  "_release": "77e9decbdf",
   "_resolution": {
     "type": "branch",
     "branch": "develop",
-    "commit": "3f37abace351f09e616a4088ad3b6fe09336dbcf"
+    "commit": "77e9decbdfa74034b277b12b12940284f1c6b920"
   },
   "_source": "https://github.com/caxy/jquery.recurrenceinput.js.git",
   "_target": "develop",
