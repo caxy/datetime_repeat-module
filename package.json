@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fuelux": "^3.15.0",
-    "jquery-migrate": "^1.4.0",
-    "rrule": "^2.1.0"
+    "jquery-migrate": "^1.4.0"
   }
 }
