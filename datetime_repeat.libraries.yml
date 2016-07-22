@@ -50,8 +50,8 @@ fuelux.vendor:
     - datetime_repeat/bootstrap
 
 bootstrap:
-  css:
-    theme:
+#  css:
+#    theme:
 #      node_modules/bootstrap/dist/css/bootstrap.css: {}
   js:
     node_modules/bootstrap/dist/js/bootstrap.js: {}

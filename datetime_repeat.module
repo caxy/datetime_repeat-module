@@ -1,9 +1,1 @@
 <?php
-
-/**
- * Implements hook_entity_presave().
- */
-function datetime_repeat_node_presave(Drupal\Core\Entity\EntityInterface $entity)
-{
-    
-}
