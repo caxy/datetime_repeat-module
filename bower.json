@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
+    "jquery-migrate": "^1.4.0",
     "jquery-tmpl": "https://github.com/BorisMoore/jquery-tmpl.git",
     "jquery.recurrenceinput.js": "https://github.com/caxy/jquery.recurrenceinput.js.git#develop",
     "jquerytools": "https://github.com/jquerytools/jquerytools.git#^1.2.7"
